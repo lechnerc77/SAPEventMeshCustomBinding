@@ -66,4 +66,4 @@ In order to make the binding available to your Azure Function, you must execute 
 
 Now you are set to run the function and put messages into a queue in the SAP Event Mesh.
 
-You find a sample function in this GitHub repository: [link]()
+You find a sample function in this GitHub repository: [link](https://github.com/lechnerc77/SAPEventMeshCustomBindingSampleFunction)
