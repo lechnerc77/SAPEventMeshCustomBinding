@@ -2,7 +2,7 @@
 
 ## Content
 
-This project contains an implementation of a _custom output binding_ for Azure Functions. Target for the binding is the [SAP EVent Mesh](https://help.sap.com/viewer/product/SAP_EM/Cloud/)
+This project contains an implementation of a _custom output binding_ for Azure Functions. Target for the binding is the [SAP Event Mesh](https://help.sap.com/viewer/product/SAP_EM/Cloud/)
 
 ## How to build
 
